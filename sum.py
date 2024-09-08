@@ -9,6 +9,3 @@ number2 = float(input("Enter the second number: "))
 # Output: Displaying the sum
 sum_of_numbers = add_numbers(number1, number2)
 print(f"The sum of {number1} and {number2} is: {sum_of_numbers}")
-#hi bro
-
-hi agin from MR
