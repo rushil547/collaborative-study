@@ -30,4 +30,4 @@ jobs:
 
       - name: Run Pylint
         run: |
-          pylint Rushil.py  # specify the file(s) to lint
+          pylint rushil.py  # specify the file(s) to lint
