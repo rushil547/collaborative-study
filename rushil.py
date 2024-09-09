@@ -14,7 +14,7 @@ def subtract_numbers(num1, num2):
     Returns:
     float: The diff of num1 and num2.
     """
-    return num1 - num2
+    >return num1 - num2
 
 # Input: Getting numbers from user
 number1 = float(input("Enter the first number: "))
