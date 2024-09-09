@@ -1,3 +1,8 @@
+"""
+This module provides a simple function to add two numbers
+and display the result.
+"""
+
 def add_numbers(num1, num2):
     """
     Add two numbers and return the sum.
@@ -18,5 +23,3 @@ number2 = float(input("Enter the second number: "))
 # Output: Displaying the sum
 sum_of_numbers = add_numbers(number1, number2)
 print(f"The sum of {number1} and {number2} is: {sum_of_numbers}")
-
-
