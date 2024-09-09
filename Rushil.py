@@ -1,8 +1,3 @@
-"""
-This module provides a simple function to add two numbers
-and display the result.
-"""
-
 def add_numbers(num1, num2):
     """
     Add two numbers and return the sum.
