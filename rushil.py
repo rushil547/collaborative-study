@@ -21,5 +21,5 @@ number1 = float(input("Enter the first number: "))
 number2 = float(input("Enter the second number: "))
 
 # Output: Displaying the sum
-diff_of_numbers = add_numbers(number1, number2)
+diff_of_numbers = subtract_numbers(number1, number2)
 print(f"The diff of {number1} and {number2} is: {diff_of_numbers}")
